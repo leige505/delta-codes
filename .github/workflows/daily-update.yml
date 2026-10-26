@@ -36,6 +36,8 @@ jobs:
           mkdir -p _out publish
           python fetch_online.py _out
           cp _out/codes.json publish/codes.json
+          cp version.json publish/version.json
+          cp app.exe publish/app.exe
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
