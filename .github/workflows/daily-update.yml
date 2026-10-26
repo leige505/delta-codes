@@ -1,0 +1,50 @@
+name: daily-update
+
+# 每天北京时间 0 点（UTC 16:00）自动抓取改枪码+每日密码并发布到 GitHub Pages
+# 注意：GitHub 定时任务可能延迟几分钟到几十分钟，属正常现象
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch codes and password
+        run: |
+          mkdir -p publish
+          python fetch_online.py _out
+          cp _out/codes.json publish/codes.json
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: publish
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
