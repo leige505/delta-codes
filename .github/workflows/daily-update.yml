@@ -33,7 +33,7 @@ jobs:
 
       - name: Fetch codes and password
         run: |
-          mkdir -p publish
+          mkdir -p _out publish
           python fetch_online.py _out
           cp _out/codes.json publish/codes.json
 
