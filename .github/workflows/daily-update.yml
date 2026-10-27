@@ -32,6 +32,8 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch codes and password
+        env:
+          TZ: Asia/Shanghai
         run: |
           mkdir -p _out publish
           python fetch_online.py _out
