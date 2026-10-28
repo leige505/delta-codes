@@ -97,6 +97,18 @@ def verify_with_single_pages(day_codes):
     return ok, single
 
 
+def _label_to_iso(label):
+    """'10月28日' → '2026-10-28'（密码实际日期，非抓取日；跨年按12月→1月减一年）"""
+    m = re.match(r"^(\d{1,2})月(\d{1,2})日$", label or "")
+    if not m:
+        return datetime.now().strftime("%Y-%m-%d")
+    mo, dy = int(m.group(1)), int(m.group(2))
+    year = datetime.now().year
+    if mo == 12 and datetime.now().month == 1:
+        year -= 1
+    return "%04d-%02d-%02d" % (year, mo, dy)
+
+
 def fetch_passwords():
     url, label = find_latest_day_url()
     if not url:
@@ -110,7 +122,7 @@ def fetch_passwords():
             codes[name] = single[name]
     return {
         "date": date_label,
-        "iso": datetime.now().strftime("%Y-%m-%d"),
+        "iso": _label_to_iso(date_label),
         "items": [{"map": m, "code": codes[m]} for m in MAPS if m in codes],
         "verified": verified and not missing,
         "fetched": datetime.now().strftime("%Y-%m-%d %H:%M"),
