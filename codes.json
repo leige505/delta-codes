@@ -1,0 +1,6336 @@
+{
+ "updated": "2026-11-01",
+ "source": "线上同步",
+ "tips": [
+  "记得保存链接以免丢失 改枪码永久更新 失效改枪码可以艾特@主播 没在直播的话看到了就会来处理",
+  "备用大战场改抢方案（）失效了可以去用烽火的满改",
+  "如果枪吗出现失效无效情况。请检查前后是否有空格。并且不要去用AI识图提取枪吗。手机长按复制，电脑使用快捷键复制粘贴，然后直接打开改枪台即可"
+ ],
+ "codes": [
+  {
+   "gun": ".357左轮",
+   "mode": "烽火地带",
+   "name": ".357左轮",
+   "code": "6J738SK0AP4252501Q61K",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": ".357左轮",
+   "mode": "烽火地带",
+   "name": ".357左轮",
+   "code": "6J738S40AP4252501Q61K",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J733S00AP4252501Q61K",
+   "price": "23W",
+   "config": "丐版三连发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J733T40AP4252501Q61K",
+   "price": "12W",
+   "config": "红点/19发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HKK40F7OI2FOM2E66M",
+   "price": "23W",
+   "config": "红点/19发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HG4C0F7OI2FOM2E66M",
+   "price": "12W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "93R",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HQ9G08GCV06CLE0GQB",
+   "price": "",
+   "config": "满改中距离",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "93R",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6H5DK04G4JS245I2I9J",
+   "price": "26W",
+   "config": "满改红点爆闪秒开镜",
+   "tags": [
+    "满改",
+    "秒开镜",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "93R",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6H5RS04G4JS245I2I9J",
+   "price": "6W",
+   "config": "满改红点爆闪秒开镜",
+   "tags": [
+    "满改",
+    "秒开镜",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "93R",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738HK0AP4252501Q61K",
+   "price": "6W",
+   "config": "满改红点爆闪秒开镜",
+   "tags": [
+    "满改",
+    "秒开镜",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3B2S08GCV06CLE0GQB",
+   "price": "52W",
+   "config": "腰射近距离",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0P007HBJIELTMQ2G1",
+   "price": "56W",
+   "config": "大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3B4K08GCV06CLE0GQB",
+   "price": "44W",
+   "config": "大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0PC07HBJIELTMQ2G1",
+   "price": "44W",
+   "config": "大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3B9408GCV06CLE0GQB",
+   "price": "44W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0PK07HBJIELTMQ2G1",
+   "price": "44W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3BBK08GCV06CLE0GQB",
+   "price": "24W",
+   "config": "腰射很强*；红点/40发/倍镜不能更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0PS07HBJIELTMQ2G1",
+   "price": "21W",
+   "config": "腰射很强*；红点/40发/倍镜不能更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKD3U408GCV06CLE0GQB",
+   "price": "21W",
+   "config": "腰射开镜双修",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AK-12突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0Q407HBJIELTMQ2G1",
+   "price": "21W",
+   "config": "腰射开镜双修",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KCRDF404NMBQ80T2GMT3",
+   "price": "10W",
+   "config": "以小柏大进阶版红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2FS07HBJIELTMQ2G1",
+   "price": "10W",
+   "config": "1.5/5倍镜版",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L9QHEG08GCV06CLE0GQB",
+   "price": "42W",
+   "config": "倍镜/50发/弹夹和倍镜可以自行更换；1.5/5倍镜版",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2G407HBJIELTMQ2G1",
+   "price": "42W",
+   "config": "倍镜/50发/弹夹和倍镜可以自行更换；1.5/5倍镜版",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KCRDHK04NMBQ80T2GMT3",
+   "price": "38W",
+   "config": "倍镜/50发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KS0RO404G4JS245I2I9J",
+   "price": "35W",
+   "config": "热成像战斗/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JS4L8G069O35F2T8FRQU",
+   "price": "35W",
+   "config": "颗秒一个点腰射；红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2GK07HBJIELTMQ2G1",
+   "price": "35W",
+   "config": "颗秒一个点腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JS4LA0069O35F2T8FRQU",
+   "price": "34W",
+   "config": "颗秒一个点腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2GS07HBJIELTMQ2G1",
+   "price": "34W",
+   "config": "红点高操稳定；颗秒一个点腰射",
+   "tags": [
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKS-74U突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9KKMG069O35F2T8FRQU",
+   "price": "20W",
+   "config": "消音稳定；激光悬浮",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKS-74U突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2CS07HBJIELTMQ2G1",
+   "price": "20W",
+   "config": "75大弹鼓（满改；消音稳定",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKS-74U突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9KLEO069O35F2T8FRQU",
+   "price": "9W",
+   "config": "75大弹鼓（满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKS-74U突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2D807HBJIELTMQ2G1",
+   "price": "9W",
+   "config": "75大弹鼓（满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JO1L0C07HBJIELTMQ2G1",
+   "price": "33W",
+   "config": "满改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JO1L4407HBJIELTMQ2G1",
+   "price": "38W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JO1L6407HBJIELTMQ2G1",
+   "price": "30W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JPFSLK07HBJIELTMQ2G1",
+   "price": "36W",
+   "config": "中远距离开镜稳定；火控/30发/弹夹和倍镜不要更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K3M2UK069O35F2T8FRQU",
+   "price": "63W",
+   "config": "近距离开镜稳定；热成像全息/32发/不能更换倍镜",
+   "tags": [
+    "稳定",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP28007HBJIELTMQ2G1",
+   "price": "63W",
+   "config": "红点+消音；近距离开镜稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9SA008GCV06CLE0GQB",
+   "price": "52W",
+   "config": "红点+消音",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP28807HBJIELTMQ2G1",
+   "price": "52W",
+   "config": "红点满改巨斧枪管；红点+消音",
+   "tags": [
+    "满改",
+    "巨斧"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9S6008GCV06CLE0GQB",
+   "price": "30W",
+   "config": "火控/30发/不可以更换倍镜；红点满改巨斧枪管",
+   "tags": [
+    "满改",
+    "巨斧"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP28G07HBJIELTMQ2G1",
+   "price": "30W",
+   "config": "火控/30发/不可以更换倍镜；红点满改巨斧枪管",
+   "tags": [
+    "满改",
+    "巨斧"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CTO08GCV06CLE0GQB",
+   "price": "47W",
+   "config": "火控/30发/不可以更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP28S07HBJIELTMQ2G1",
+   "price": "46W",
+   "config": "激光悬浮",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "ASh-12战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CVG08GCV06CLE0GQB",
+   "price": "46W",
+   "config": "消音稳定；激光悬浮",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9R0C08GCV06CLE0GQB",
+   "price": "42W",
+   "config": "热成像全息/50发/不能更换倍镜；半改实用枪管",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP1VO07HBJIELTMQ2G1",
+   "price": "42W",
+   "config": "大弹鼓远点架枪；热成像全息/50发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP20K07HBJIELTMQ2G1",
+   "price": "43W",
+   "config": "高操速火控可加弹夹；综合实力平均能腰能开镜；红点/70发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9TN7K04NMBQ80T2GMT3",
+   "price": "43W",
+   "config": "中近距离开镜稳定；高操速火控可加弹夹",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP21007HBJIELTMQ2G1",
+   "price": "33W",
+   "config": "棱镜可自行加倍镜；中近距离开镜稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9TN8K04NMBQ80T2GMT3",
+   "price": "20W",
+   "config": "近距离腰射；红点/40发/不可以更换倍镜；棱镜可自行加倍镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP21807HBJIELTMQ2G1",
+   "price": "20W",
+   "config": "近距离腰射；红点/40发/不可以更换倍镜；棱镜可自行加倍镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0J3F403DQB9R8L33AB3",
+   "price": "24W",
+   "config": "近距离腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP21G07HBJIELTMQ2G1",
+   "price": "29W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换；中近距离开镜稳定",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AWM狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEPFS04G4JS245I2I9J",
+   "price": "100W",
+   "config": "320射程满改；举枪切倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AWM狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J737A40AP4252501Q61K",
+   "price": "100W",
+   "config": "320射程满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AWM狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6GUQKPK0099833QQSDHJJ",
+   "price": "",
+   "config": "320射程满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0H807HBJIELTMQ2G1",
+   "price": "92W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0HK07HBJIELTMQ2G1",
+   "price": "26W",
+   "config": "1.5-5/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0HS07HBJIELTMQ2G1",
+   "price": "14W",
+   "config": "1.5-5/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0I807HBJIELTMQ2G1",
+   "price": "9W",
+   "config": "热成像/45发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0IG07HBJIELTMQ2G1",
+   "price": "8W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JFRJJK04G4JS245I2I9J",
+   "price": "37W",
+   "config": "满改腰射大弹鼓",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KPBBDK04G4JS245I2I9J",
+   "price": "31W",
+   "config": "满改腰射大弹鼓",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9T9K08GCV06CLE0GQB",
+   "price": "37W",
+   "config": "满改腰射大弹鼓；红点/75发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J733LK0AP4252501Q61K",
+   "price": "25W",
+   "config": "开镜 稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9TM408GCV06CLE0GQB",
+   "price": "31W",
+   "config": "火控/45发/弹夹和倍镜可以自行更换；开镜 稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LPGAGC04G4JS245I2I9J",
+   "price": "",
+   "config": "火控/45发/弹夹和倍镜可以自行更换；开镜 稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9TVK08GCV06CLE0GQB",
+   "price": "25W",
+   "config": "红点30发；火控/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "FS-12霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9UGK08GCV06CLE0GQB",
+   "price": "18W",
+   "config": "满改稳定；1.5/5倍镜+45弹夹(无后座",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G17",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738EC0AP4252501Q61K",
+   "price": "4W",
+   "config": "任意枪口+大弹夹",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G18",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738LC0AP4252501Q61K",
+   "price": "18W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G18",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738MG0AP4252501Q61K",
+   "price": "4W",
+   "config": "任意枪口+大弹夹",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0KS07HBJIELTMQ2G1",
+   "price": "28W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0L807HBJIELTMQ2G1",
+   "price": "16W",
+   "config": "进距离腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0LG07HBJIELTMQ2G1",
+   "price": "12W",
+   "config": "热成像/40发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CM008GCV06CLE0GQB",
+   "price": "45W",
+   "config": "近距离腰射突进；红点/40发/倍镜不可更换；消音+红点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP24O07HBJIELTMQ2G1",
+   "price": "45W",
+   "config": "近距离腰射突进；红点/40发/倍镜不可更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CNO08GCV06CLE0GQB",
+   "price": "49W",
+   "config": "近距离腰射突进",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L861I804G4JS245I2I9J",
+   "price": "49W",
+   "config": "满改红点可换60弹夹",
+   "tags": [
+    "满改",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0J4C803DQB9R8L33AB3",
+   "price": "38W",
+   "config": "红点/32发/弹夹和倍镜可以自行更换；满改红点可换60弹夹",
+   "tags": [
+    "满改",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP26007HBJIELTMQ2G1",
+   "price": "38W",
+   "config": "1.5/5倍镜超稳；红点/32发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0J4H003DQB9R8L33AB3",
+   "price": "35W",
+   "config": "红点/60发/倍镜不可更换；1.5/5倍镜超稳；红点/32发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JPTMU007HBJIELTMQ2G1",
+   "price": "40W",
+   "config": "红点/60发/倍镜不可更换；1.5/5倍镜超稳",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0J40803DQB9R8L33AB3",
+   "price": "40W",
+   "config": "热成像全息/32发/不能更换倍镜；红点/60发/倍镜不可更换",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K416突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP26C07HBJIELTMQ2G1",
+   "price": "40W",
+   "config": "热成像全息/32发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0AG07HBJIELTMQ2G1",
+   "price": "71W",
+   "config": "火控/75发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KVJIFG04G4JS245I2I9J",
+   "price": "67W",
+   "config": "满改24倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0B407HBJIELTMQ2G1",
+   "price": "62W",
+   "config": "红点高操",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L860QS04G4JS245I2I9J",
+   "price": "58W",
+   "config": "长枪管半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0BK07HBJIELTMQ2G1",
+   "price": "19W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP08407HBJIELTMQ2G1",
+   "price": "71W",
+   "config": "1.5/5高倍+消音；3倍镜/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LKMSA804G4JS245I2I9J",
+   "price": "45W",
+   "config": "消音枪管；红点稳定；倍镜/40发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP08S07HBJIELTMQ2G1",
+   "price": "53W",
+   "config": "消音枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP09407HBJIELTMQ2G1",
+   "price": "29W",
+   "config": "半改全息",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP09C07HBJIELTMQ2G1",
+   "price": "55W",
+   "config": "高操半改；中近红点稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "烽火地带",
+   "name": "MCX LT突击步枪",
+   "code": "6JROU8407HBJIELTMQ2G1",
+   "price": "48W",
+   "config": "满改蓝枪管",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "烽火地带",
+   "name": "MCX LT突击步枪",
+   "code": "6JROU8O07HBJIELTMQ2G1",
+   "price": "42W",
+   "config": "满改性价比；中近激光；红点/60发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改",
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "烽火地带",
+   "name": "MCX LT突击步枪",
+   "code": "6JROU9807HBJIELTMQ2G1",
+   "price": "33W",
+   "config": "紫枪管；火控倍镜/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "烽火地带",
+   "name": "MCX LT突击步枪",
+   "code": "6JROU9G07HBJIELTMQ2G1",
+   "price": "11W",
+   "config": "丐版前十发点射；热成像/30发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M1014霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J737380AP4252501Q61K",
+   "price": "",
+   "config": "速射腰射；丐版腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M1014霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7373O0AP4252501Q61K",
+   "price": "7W",
+   "config": "速射开镜稳定；速射腰射",
+   "tags": [
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M1014霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKD00008GCV06CLE0GQB",
+   "price": "",
+   "config": "速射开镜稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M1014霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9T7O08GCV06CLE0GQB",
+   "price": "7W",
+   "config": "满改腰射大弹鼓",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TK4080NIGQM5KI5VL",
+   "price": "80W",
+   "config": "满改大弹鼓稳定",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TKK080NIGQM5KI5VL",
+   "price": "80W",
+   "config": "红点高操可加轻语；满改大弹鼓稳定",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TKS080NIGQM5KI5VL",
+   "price": "80W",
+   "config": "红点高操可加轻语；满改大弹鼓稳定",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TLC080NIGQM5KI5VL",
+   "price": "83W",
+   "config": "红点高操可加轻语",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6H0SO04G4JS245I2I9J",
+   "price": "83W",
+   "config": "半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9RP008GCV06CLE0GQB",
+   "price": "29W",
+   "config": "消音+三倍镜+镭射；红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQQ1NC07HBJIELTMQ2G1",
+   "price": "36W",
+   "config": "消音+三倍镜+镭射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0J3M003DQB9R8L33AB3",
+   "price": "21W",
+   "config": "红点/30发/不可以更换倍镜；消音+三倍镜+镭射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQQ1RS07HBJIELTMQ2G1",
+   "price": "18W",
+   "config": "半改三倍镜；红点/30发/不可以更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CK008GCV06CLE0GQB",
+   "price": "18W",
+   "config": "半改三倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M16A4突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQQ1VO07HBJIELTMQ2G1",
+   "price": "13W",
+   "config": "消音+红点；半改三倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M1911",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQNCOO04G4JS245I2I9J",
+   "price": "",
+   "config": "任意枪口+大弹夹",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739R80AP4252501Q61K",
+   "price": "43W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JO1PQO07HBJIELTMQ2G1",
+   "price": "24W",
+   "config": "电锯腰射；红点腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JOFUN00CO5ILRFIM7SMP",
+   "price": "",
+   "config": "电锯腰射；红点腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739S80AP4252501Q61K",
+   "price": "30W",
+   "config": "电锯腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JOFUQS0CO5ILRFIM7SMP",
+   "price": "24W",
+   "config": "电锯腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739SK0AP4252501Q61K",
+   "price": "23W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JOFUT40CO5ILRFIM7SMP",
+   "price": "30W",
+   "config": "2倍镜；满改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739T40AP4252501Q61K",
+   "price": "16W",
+   "config": "红点30发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L8INMK069O35F2T8FRQU",
+   "price": "23W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M249轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG3VSK08GCV06CLE0GQB",
+   "price": "16W",
+   "config": "腰射近点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KSQ4EG04G4JS245I2I9J",
+   "price": "70W",
+   "config": "高稳定满改；三连发高伤害；红点/48发",
+   "tags": [
+    "满改",
+    "稳定",
+    "高伤"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739IK0AP4252501Q61K",
+   "price": "46W",
+   "config": "2倍镜；焰魂枪管；高稳定满改",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3F7808GCV06CLE0GQB",
+   "price": "70W",
+   "config": "猎手枪管；2倍镜；焰魂枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739J00AP4252501Q61K",
+   "price": "84W",
+   "config": "猎手枪管；2倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6IUKE1G01OKK065JF7EQ5",
+   "price": "46W",
+   "config": "猎手枪管；2倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739JC0AP4252501Q61K",
+   "price": "",
+   "config": "猎手枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KS52Q808GCV06CLE0GQB",
+   "price": "84W",
+   "config": "猎手枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739JO0AP4252501Q61K",
+   "price": "24W",
+   "config": "红点腰射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JNVKSG03EINQ63AGU05N",
+   "price": "34W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M250通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JNVKVK03EINQ63AGU05N",
+   "price": "24W",
+   "config": "红点腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JS4LB4069O35F2T8FRQU",
+   "price": "30W",
+   "config": "热成像全息/30发/不能更换倍镜；红点高操稳定",
+   "tags": [
+    "稳定",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2IC07HBJIELTMQ2G1",
+   "price": "27W",
+   "config": "满改火控；热成像全息/30发/不能更换倍镜",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JS4LE0069O35F2T8FRQU",
+   "price": "27W",
+   "config": "1.5-5/30发/不能更换倍镜；满改火控",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2IS07HBJIELTMQ2G1",
+   "price": "60W",
+   "config": "1.5-5/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2J407HBJIELTMQ2G1",
+   "price": "37W",
+   "config": "开镜腰射急停；近距离红点突进",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JS4LHC069O35F2T8FRQU",
+   "price": "37W",
+   "config": "开镜腰射急停；近距离红点突进",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2JC07HBJIELTMQ2G1",
+   "price": "37W",
+   "config": "急停腰射版；开镜腰射急停",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG415008GCV06CLE0GQB",
+   "price": "16W",
+   "config": "红点双发近距离；急停腰射版",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M4A1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LLET5C04G4JS245I2I9J",
+   "price": "",
+   "config": "急停腰射-开镜快二倍；红点双发近距离；急停腰射版",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0H9UC05S30UTSRTKI00",
+   "price": "19W",
+   "config": "6-12/10发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GV5G04G4JS245I2I9J",
+   "price": "45W",
+   "config": "红点短枪管全自动",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L769AO04G4JS245I2I9J",
+   "price": "51W",
+   "config": "长枪管全自动；红点短枪管全自动",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J737OO0AP4252501Q61K",
+   "price": "40W",
+   "config": "秒开镜；长枪管全自动；红点短枪管全自动",
+   "tags": [
+    "秒开镜"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L769K804G4JS245I2I9J",
+   "price": "",
+   "config": "秒开镜；长枪管全自动",
+   "tags": [
+    "秒开镜"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6H0J004G4JS245I2I9J",
+   "price": "",
+   "config": "秒开镜",
+   "tags": [
+    "秒开镜"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3BPK08GCV06CLE0GQB",
+   "price": "57W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KK7IB804G4JS245I2I9J",
+   "price": "57W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3BR808GCV06CLE0GQB",
+   "price": "92W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LPOJLS04G4JS245I2I9J",
+   "price": "84W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3CCO08GCV06CLE0GQB",
+   "price": "84W",
+   "config": "魔丸大弹鼓；红点/75发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L0J8VS04G4JS245I2I9J",
+   "price": "85W",
+   "config": "魔丸大弹鼓；红点/75发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3BT808GCV06CLE0GQB",
+   "price": "85W",
+   "config": "红点 堤风；热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LO0A4004G4JS245I2I9J",
+   "price": "",
+   "config": "红点 堤风",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G7FLDS0ARS5806JVET5D",
+   "price": "94W",
+   "config": "红点/50发/倍镜可以自行更换；红点 堤风",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0U007HBJIELTMQ2G1",
+   "price": "55W",
+   "config": "半改实用枪管；红点/50发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M82狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KH7O3004G4JS245I2I9J",
+   "price": "56W",
+   "config": "举枪切倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M870霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J735880AP4252501Q61K",
+   "price": "21W",
+   "config": "红点/19发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M870霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7358S0AP4252501Q61K",
+   "price": "5W",
+   "config": "红点/50发/弹夹和倍镜可以自行更换；中近红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M870霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9T3K08GCV06CLE0GQB",
+   "price": "5W",
+   "config": "红点/50发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M870霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L95O1O08GCV06CLE0GQB",
+   "price": "5W",
+   "config": "高配腰射龙息；红点/50发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MDR突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GRMG04G4JS245I2I9J",
+   "price": "59W",
+   "config": "满改红点；备用大战场改抢方案（）失效了可以去用烽火的满改",
+   "tags": [
+    "满改",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MDR突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GRP804G4JS245I2I9J",
+   "price": "60W",
+   "config": "满改红点",
+   "tags": [
+    "满改",
+    "满改红点"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MDR突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GSSK04G4JS245I2I9J",
+   "price": "41W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MDR突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LE3QU404G4JS245I2I9J",
+   "price": "54W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MDR突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LE3QRC04G4JS245I2I9J",
+   "price": "34W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JROUB007HBJIELTMQ2G1",
+   "price": "75W",
+   "config": "丐版前十发点射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KHFC1G04G4JS245I2I9J",
+   "price": "76W",
+   "config": "弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K28QF804G4JS245I2I9J",
+   "price": "76W",
+   "config": "满改稳；火控/30发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JROUDK07HBJIELTMQ2G1",
+   "price": "70W",
+   "config": "满改腰射",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JROUE807HBJIELTMQ2G1",
+   "price": "47W",
+   "config": "3倍镜/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LL1EU804G4JS245I2I9J",
+   "price": "",
+   "config": "新版双休满改；满操控腰射",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LFJNPK08GCV06CLE0GQB",
+   "price": "",
+   "config": "近距离满操控腰射；红点/2发/不可更换倍镜；新版双休满改",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UEC080NIGQM5KI5VL",
+   "price": "52W",
+   "config": "三连发满腰射；近距离满操控腰射；红点/2发/不可更换倍镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LFJNRC08GCV06CLE0GQB",
+   "price": "",
+   "config": "开镜稳定；三连发满腰射；近距离满操控腰射",
+   "tags": [
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UES080NIGQM5KI5VL",
+   "price": "32W",
+   "config": "半改双修；开镜稳定；三连发满腰射",
+   "tags": [
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LFJNTK08GCV06CLE0GQB",
+   "price": "",
+   "config": "热成像全息/不能更换倍镜；半改双修；开镜稳定",
+   "tags": [
+    "稳定",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UFC080NIGQM5KI5VL",
+   "price": "22W",
+   "config": "热成像全息/不能更换倍镜；半改双修",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HKFG0F7OI2FOM2E66M",
+   "price": "32W",
+   "config": "红点/10发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UFO080NIGQM5KI5VL",
+   "price": "17W",
+   "config": "丐版三连发；红点/10发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HK7O0F7OI2FOM2E66M",
+   "price": "22W",
+   "config": "丐版三连发；红点/10发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HKOC0F7OI2FOM2E66M",
+   "price": "17W",
+   "config": "红点/19发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V5S080NIGQM5KI5VL",
+   "price": "16W",
+   "config": "红点/10发/弹夹和倍镜可以自行更换；连发撞火腰射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V6C080NIGQM5KI5VL",
+   "price": "12W",
+   "config": "红点/10发/弹夹和倍镜可以自行更换；满操控腰射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HLDO0F7OI2FOM2E66M",
+   "price": "16W",
+   "config": "连发撞火腰射；红点/10发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V6S080NIGQM5KI5VL",
+   "price": "11W",
+   "config": "连发撞火腰射；红点/10发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HL980F7OI2FOM2E66M",
+   "price": "12W",
+   "config": "满操控腰射；连发撞火腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HD5G05S30UTSRTKI00",
+   "price": "53W",
+   "config": "火控/75发/不能更换倍镜；中近距离开镜快稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UJ4080NIGQM5KI5VL",
+   "price": "53W",
+   "config": "满改二版；火控/75发/不能更换倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HDF405S30UTSRTKI00",
+   "price": "41W",
+   "config": "热成像全息/75发/不能更换倍镜；满改二版；火控/75发/不能更换倍镜",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UJG080NIGQM5KI5VL",
+   "price": "41W",
+   "config": "满改消音大弹鼓新版；热成像全息/75发/不能更换倍镜；满改二版",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HDKK05S30UTSRTKI00",
+   "price": "35W",
+   "config": "热成像战斗/75发/不能更换倍镜；满改消音大弹鼓新版；热成像全息/75发/不能更换倍镜",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KD610K04G4JS245I2I9J",
+   "price": "35W",
+   "config": "常规半改；热成像战斗/75发/不能更换倍镜；满改消音大弹鼓新版",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6QI5C08GCV06CLE0GQB",
+   "price": "18W",
+   "config": "常规半改；热成像战斗/75发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UKG080NIGQM5KI5VL",
+   "price": "18W",
+   "config": "大弹鼓镭射；常规半改",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HFE405S30UTSRTKI00",
+   "price": "34W",
+   "config": "大弹鼓镭射；常规半改",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP7冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K5JP8004G4JS245I2I9J",
+   "price": "34W",
+   "config": "大弹鼓镭射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Mini-14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TR0080NIGQM5KI5VL",
+   "price": "",
+   "config": "大弹鼓连发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Mini-14射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TS4080NIGQM5KI5VL",
+   "price": "19W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V48080NIGQM5KI5VL",
+   "price": "38W",
+   "config": "满改消音+红点；热成像战斗/20发/不能更换倍镜；大弹鼓满改腰",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V4K080NIGQM5KI5VL",
+   "price": "31W",
+   "config": "高腰射均衡满改",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HJF00F7OI2FOM2E66M",
+   "price": "31W",
+   "config": "高腰射均衡满改",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V54080NIGQM5KI5VL",
+   "price": "31W",
+   "config": "高腰射均衡满改",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HK2C0F7OI2FOM2E66M",
+   "price": "31W",
+   "config": "高腰射均衡满改；37/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "P90冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HJT00F7OI2FOM2E66M",
+   "price": "26W",
+   "config": "热成像战斗/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J73A400AP4252501Q61K",
+   "price": "54W",
+   "config": "腰射近点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J73A4G0AP4252501Q61K",
+   "price": "41W",
+   "config": "2/4倍镜（可换红点；腰射近点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG3U7408GCV06CLE0GQB",
+   "price": "54W",
+   "config": "红点腰射近距离；2/4倍镜（可换红点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J73A4S0AP4252501Q61K",
+   "price": "54W",
+   "config": "红点腰射近距离；2/4倍镜（可换红点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG3V3S08GCV06CLE0GQB",
+   "price": "41W",
+   "config": "火控/30发/可更换倍镜；红点腰射近距离",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J73A5C0AP4252501Q61K",
+   "price": "28W",
+   "config": "半改高操；火控/30发/可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG44J008GCV06CLE0GQB",
+   "price": "54W",
+   "config": "红点20发近距离；半改高操",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J73A5O0AP4252501Q61K",
+   "price": "18W",
+   "config": "红点20发近距离；半改高操",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KG458S08GCV06CLE0GQB",
+   "price": "28W",
+   "config": "红点20发近距离均衡；红点20发近距离",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PKM通用机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HOV808GCV06CLE0GQB",
+   "price": "18W",
+   "config": "红点30发近点；红点20发近距离均衡",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PSG-1射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TAC080NIGQM5KI5VL",
+   "price": "",
+   "config": "近中腰射+高射速（推荐",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PSG-1射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TBO080NIGQM5KI5VL",
+   "price": "",
+   "config": "近中腰射+高射速（推荐",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PSG-1射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TC8080NIGQM5KI5VL",
+   "price": "35W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PSG-1射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TCO080NIGQM5KI5VL",
+   "price": "28W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LLFJIO04G4JS245I2I9J",
+   "price": "32W",
+   "config": "满改满腰射双休；红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0JK07HBJIELTMQ2G1",
+   "price": "17W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0K007HBJIELTMQ2G1",
+   "price": "17W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9KL28069O35F2T8FRQU",
+   "price": "34W",
+   "config": "火控/30发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2E407HBJIELTMQ2G1",
+   "price": "34W",
+   "config": "三倍+消音（满改；火控/30发/不可更换倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9KL3G069O35F2T8FRQU",
+   "price": "13W",
+   "config": "热成像战斗/30发/不能更换倍镜；三倍+消音（满改",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2EC07HBJIELTMQ2G1",
+   "price": "13W",
+   "config": "以小柏大进阶版红点；热成像战斗/30发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KCRDDK04NMBQ80T2GMT3",
+   "price": "13W",
+   "config": "以小柏大进阶版红点；热成像战斗/30发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QBZ95-1突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP2ES07HBJIELTMQ2G1",
+   "price": "10W",
+   "config": "以小柏大进阶版红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HCPS05S30UTSRTKI00",
+   "price": "40W",
+   "config": "1.5-5/60发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UGS080NIGQM5KI5VL",
+   "price": "40W",
+   "config": "1.5-5/60发/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L605R004NMBQ80T2GMT3",
+   "price": "37W",
+   "config": "主播同款（趴下开镜打秒变激光枪）；热成像全息/125发/可以更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UHC080NIGQM5KI5VL",
+   "price": "37W",
+   "config": "近战高爆发；主播同款（趴下开镜打秒变激光枪）；热成像全息/125发/可以更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HCLC05S30UTSRTKI00",
+   "price": "29W",
+   "config": "热成像战斗/60发/不能更换倍镜；近战高爆发；主播同款（趴下开镜打秒变激光枪）",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UHS080NIGQM5KI5VL",
+   "price": "29W",
+   "config": "热成像战斗/60发/不能更换倍镜；近战高爆发",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HD0S05S30UTSRTKI00",
+   "price": "14W",
+   "config": "中近距离开镜快稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QCQ171冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UI8080NIGQM5KI5VL",
+   "price": "14W",
+   "config": "中近距离开镜快稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7398O0AP4252501Q61K",
+   "price": "54W",
+   "config": "1.5/5倍镜+45弹夹(无后座；红点30发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7399C0AP4252501Q61K",
+   "price": "40W",
+   "config": "满改稳定；1.5/5倍镜+45弹夹(无后座",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6HIE7O8094898G9NDDGRT",
+   "price": "54W",
+   "config": "满改稳定",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7399S0AP4252501Q61K",
+   "price": "52W",
+   "config": "满腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LAQA2G08GCV06CLE0GQB",
+   "price": "40W",
+   "config": "24倍镜；满腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LOPP0G04G4JS245I2I9J",
+   "price": "",
+   "config": "24倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JUNVCO069O35F2T8FRQU",
+   "price": "52W",
+   "config": "红点稳定/48发",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739AO0AP4252501Q61K",
+   "price": "33W",
+   "config": "低配无后座带倍镜；红点稳定/48发",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JUNVFO069O35F2T8FRQU",
+   "price": "23W",
+   "config": "三连发高伤害；红点/48发；低配无后座带倍镜",
+   "tags": [
+    "高伤"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QJB201轻机枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3F5O08GCV06CLE0GQB",
+   "price": "33W",
+   "config": "焰魂枪管；高稳定满改；三连发高伤害",
+   "tags": [
+    "满改",
+    "稳定",
+    "高伤"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "QSZ92G",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J739180AP4252501Q61K",
+   "price": "7W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "R93狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738200AP4252501Q61K",
+   "price": "26W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "RM277突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEIE004G4JS245I2I9J",
+   "price": "64W",
+   "config": "满改低后座",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "RM277突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEIGS04G4JS245I2I9J",
+   "price": "66W",
+   "config": "满改高操；满改低后座",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "RM277突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI35NO04G4JS245I2I9J",
+   "price": "57W",
+   "config": "满改稳定可换倍镜；满改高操",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "RM277突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEIKG04G4JS245I2I9J",
+   "price": "24W",
+   "config": "满改稳定可换倍镜",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "RM277突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEIMS04G4JS245I2I9J",
+   "price": "33W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J736T40AP4252501Q61K",
+   "price": "31W",
+   "config": "高配腰射龙息；红点/50发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J736TO0AP4252501Q61K",
+   "price": "26W",
+   "config": "高配腰射龙息",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HGK80F7OI2FOM2E66M",
+   "price": "31W",
+   "config": "热成像战斗/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J736U40AP4252501Q61K",
+   "price": "14W",
+   "config": "丐版腰射；热成像战斗/不能更换倍镜",
+   "tags": [
+    "腰射",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKCVJK08GCV06CLE0GQB",
+   "price": "26W",
+   "config": "速射腰射；丐版腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKCVAC08GCV06CLE0GQB",
+   "price": "14W",
+   "config": "速射开镜稳定；速射腰射",
+   "tags": [
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0MG07HBJIELTMQ2G1",
+   "price": "73W",
+   "config": "60大弹鼓满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0N007HBJIELTMQ2G1",
+   "price": "60W",
+   "config": "激光红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0N407HBJIELTMQ2G1",
+   "price": "62W",
+   "config": "2/4倍镜；中近红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9PS408GCV06CLE0GQB",
+   "price": "27W",
+   "config": "2/4倍镜；中近红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KSLRF404G4JS245I2I9J",
+   "price": "27W",
+   "config": "2/4倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KI3B1408GCV06CLE0GQB",
+   "price": "50W",
+   "config": "腰射近距离",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0NO07HBJIELTMQ2G1",
+   "price": "52W",
+   "config": "腰射近距离",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J8L0PO04NMBQ80T2GMT3",
+   "price": "38W",
+   "config": "腰射开镜双修",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0R007HBJIELTMQ2G1",
+   "price": "38W",
+   "config": "1.5/5倍镜 很稳；腰射开镜双修",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KT9Q2S08GCV06CLE0GQB",
+   "price": "46W",
+   "config": "1.5/5倍镜 很稳",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0RC07HBJIELTMQ2G1",
+   "price": "46W",
+   "config": "火控大弹鼓；1.5/5倍镜 很稳",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K3BJG808GCV06CLE0GQB",
+   "price": "19W",
+   "config": "近距离满腰射；火控大弹鼓",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0RG07HBJIELTMQ2G1",
+   "price": "16W",
+   "config": "近距离满腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JRP0RO07HBJIELTMQ2G1",
+   "price": "10W",
+   "config": "热成像/45发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5THO080NIGQM5KI5VL",
+   "price": "58W",
+   "config": "满改高稳定；丐版（可换倍镜；近战腰射，远距离点射",
+   "tags": [
+    "满改",
+    "稳定",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TI8080NIGQM5KI5VL",
+   "price": "45W",
+   "config": "满改高操控；满改高稳定；丐版（可换倍镜",
+   "tags": [
+    "满改",
+    "稳定",
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TIK080NIGQM5KI5VL",
+   "price": "",
+   "config": "满改高操控；满改高稳定",
+   "tags": [
+    "满改",
+    "稳定",
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TJ4080NIGQM5KI5VL",
+   "price": "",
+   "config": "满改高操控",
+   "tags": [
+    "满改",
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UR0080NIGQM5KI5VL",
+   "price": "",
+   "config": "6-12/10发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HA4C05S30UTSRTKI00",
+   "price": "9W",
+   "config": "6-12/10发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5URK080NIGQM5KI5VL",
+   "price": "9W",
+   "config": "热成像8倍镜/不可更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LKFJD808GCV06CLE0GQB",
+   "price": "",
+   "config": "37/20发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5US0080NIGQM5KI5VL",
+   "price": "9W",
+   "config": "消音+全息；37/20发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LKFJP808GCV06CLE0GQB",
+   "price": "",
+   "config": "红点/20发；消音+全息",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SMG-45冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HB7405S30UTSRTKI00",
+   "price": "9W",
+   "config": "中远操控慢弹夹小；8倍镜/5发/倍镜可以自行更换；满改（娱乐",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TF8080NIGQM5KI5VL",
+   "price": "74W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TFK080NIGQM5KI5VL",
+   "price": "74W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TG4080NIGQM5KI5VL",
+   "price": "74W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TGG080NIGQM5KI5VL",
+   "price": "55W",
+   "config": "近战腰射，远距离点射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TGS080NIGQM5KI5VL",
+   "price": "32W",
+   "config": "丐版（可换倍镜；近战腰射，远距离点射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K8JENS069O35F2T8FRQU",
+   "price": "57W",
+   "config": "30发/弹夹和倍镜可以自行更换；37/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UOC080NIGQM5KI5VL",
+   "price": "57W",
+   "config": "近点腰射+红点；30发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HI2G0F7OI2FOM2E66M",
+   "price": "50W",
+   "config": "近点腰射+红点",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LFG1PK04G4JS245I2I9J",
+   "price": "50W",
+   "config": "满改超远腰射可开镜；近点腰射+红点",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K1MRDS069O35F2T8FRQU",
+   "price": "28W",
+   "config": "火控/15发/倍镜可以自行更换；满改超远腰射可开镜",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UP8080NIGQM5KI5VL",
+   "price": "28W",
+   "config": "性价比高腰射红点；火控/15发/倍镜可以自行更换",
+   "tags": [
+    "性价比",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0H9GG05S30UTSRTKI00",
+   "price": "47W",
+   "config": "37/10发/倍镜可以自行更换；性价比高腰射红点",
+   "tags": [
+    "性价比",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UPO080NIGQM5KI5VL",
+   "price": "47W",
+   "config": "满改开镜；37/10发/倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0H8UG05S30UTSRTKI00",
+   "price": "19W",
+   "config": "满改开镜；37/10发/倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-3M紧凑突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UQ8080NIGQM5KI5VL",
+   "price": "19W",
+   "config": "满改开镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR9射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TDG080NIGQM5KI5VL",
+   "price": "48W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR9射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TE0080NIGQM5KI5VL",
+   "price": "43W",
+   "config": "三连发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR9射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TEC080NIGQM5KI5VL",
+   "price": "",
+   "config": "三连发",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SV-98狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J738100AP4252501Q61K",
+   "price": "",
+   "config": "只装倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HP0808GCV06CLE0GQB",
+   "price": "65W",
+   "config": "胜者高操控红点30；红点30发近点",
+   "tags": [
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LK1QH404G4JS245I2I9J",
+   "price": "",
+   "config": "双垂直稳定满改；胜者高操控红点30；红点30发近点",
+   "tags": [
+    "满改",
+    "稳定",
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HP0K08GCV06CLE0GQB",
+   "price": "41W",
+   "config": "红点/30发/均衡；双垂直稳定满改；胜者高操控红点30",
+   "tags": [
+    "满改",
+    "稳定",
+    "高操控"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HP9008GCV06CLE0GQB",
+   "price": "68W",
+   "config": "红点/35发/消音；红点/30发/均衡",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LK1PL404G4JS245I2I9J",
+   "price": "49W",
+   "config": "2-4倍镜；红点/35发/消音",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVCH精确射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6HP7O08GCV06CLE0GQB",
+   "price": "49W",
+   "config": "红点/35发/均衡；2-4倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVD狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TMK080NIGQM5KI5VL",
+   "price": "83W",
+   "config": "半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SVD狙击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TN0080NIGQM5KI5VL",
+   "price": "83W",
+   "config": "半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "UZI冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V0G080NIGQM5KI5VL",
+   "price": "21W",
+   "config": "37/30发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "UZI冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V10080NIGQM5KI5VL",
+   "price": "7W",
+   "config": "热成像战斗/45发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "UZI冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HHF00F7OI2FOM2E66M",
+   "price": "21W",
+   "config": "37/45/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "UZI冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HHN40F7OI2FOM2E66M",
+   "price": "7W",
+   "config": "热成像战斗/45发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "VSS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TNS080NIGQM5KI5VL",
+   "price": "43W",
+   "config": "半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "VSS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TO8080NIGQM5KI5VL",
+   "price": "38W",
+   "config": "高倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "VSS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TOS080NIGQM5KI5VL",
+   "price": "37W",
+   "config": "大弹鼓连发；高倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "VSS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TPK080NIGQM5KI5VL",
+   "price": "",
+   "config": "大弹鼓连发；高倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "VSS射手步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5TQ4080NIGQM5KI5VL",
+   "price": "",
+   "config": "大弹鼓连发；高倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "烽火地带",
+   "name": "AS Val突击步枪",
+   "code": "6JRP0F007HBJIELTMQ2G1",
+   "price": "72W",
+   "config": "刺客满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "烽火地带",
+   "name": "AS Val突击步枪",
+   "code": "6K91J3O04G4JS245I2I9J",
+   "price": "68W",
+   "config": "常规满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "烽火地带",
+   "name": "AS Val突击步枪",
+   "code": "6JRP0FO07HBJIELTMQ2G1",
+   "price": "48W",
+   "config": "半改斜握",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "烽火地带",
+   "name": "AS Val突击步枪",
+   "code": "6KSLQ9S04G4JS245I2I9J",
+   "price": "65W",
+   "config": "火控/45发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "烽火地带",
+   "name": "AS Val突击步枪",
+   "code": "6LE404C04G4JS245I2I9J",
+   "price": "65W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6K9TN6404NMBQ80T2GMT3",
+   "price": "",
+   "config": "红点/70发/弹夹和倍镜可以自行更换；综合实力平均能腰能开镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V1S080NIGQM5KI5VL",
+   "price": "47W",
+   "config": "37/45/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V2C080NIGQM5KI5VL",
+   "price": "54W",
+   "config": "满改双休；热成像战斗/45发/不能更换倍镜",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HIK80F7OI2FOM2E66M",
+   "price": "47W",
+   "config": "满改双休",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V2O080NIGQM5KI5VL",
+   "price": "51W",
+   "config": "37/20发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HIQ00F7OI2FOM2E66M",
+   "price": "51W",
+   "config": "满改双休；热成像战斗/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V34080NIGQM5KI5VL",
+   "price": "25W",
+   "config": "腰射修脚",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HJ540F7OI2FOM2E66M",
+   "price": "51W",
+   "config": "37/20发/弹夹和倍镜可以自行更换；腰射修脚",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5V3G080NIGQM5KI5VL",
+   "price": "41W",
+   "config": "大弹鼓满改腰；37/20发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HJ040F7OI2FOM2E66M",
+   "price": "25W",
+   "config": "热成像战斗/20发/不能更换倍镜；大弹鼓满改腰",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Vector冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HJJO0F7OI2FOM2E66M",
+   "price": "41W",
+   "config": "满改消音+红点；热成像战斗/20发/不能更换倍镜",
+   "tags": [
+    "满改",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6LAFQHO08GCV06CLE0GQB",
+   "price": "34W",
+   "config": "大弹鼓镭射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5ULO080NIGQM5KI5VL",
+   "price": "34W",
+   "config": "红点+腰射+爆闪+45",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HF8S05S30UTSRTKI00",
+   "price": "22W",
+   "config": "红点+腰射+爆闪+45",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UM4080NIGQM5KI5VL",
+   "price": "22W",
+   "config": "腰射+45大弹鼓；红点+腰射+爆闪+45",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HAIG05S30UTSRTKI00",
+   "price": "17W",
+   "config": "37/倍镜可以自行更换；腰射+45大弹鼓",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UMO080NIGQM5KI5VL",
+   "price": "17W",
+   "config": "中配+大弹鼓；37/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HAQC05S30UTSRTKI00",
+   "price": "12W",
+   "config": "热成像8倍镜/不可更换倍镜；中配+大弹鼓",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UN4080NIGQM5KI5VL",
+   "price": "12W",
+   "config": "热成像8倍镜/不可更换倍镜；中配+大弹鼓",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HI7K0F7OI2FOM2E66M",
+   "price": "11W",
+   "config": "37/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "勇士冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UNK080NIGQM5KI5VL",
+   "price": "11W",
+   "config": "37/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "复合弓",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKQE7C04G4JS245I2I9J",
+   "price": "",
+   "config": "只装倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "复合弓",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J7386S0AP4252501Q61K",
+   "price": "",
+   "config": "只装倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "复合弓",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KKQE0S04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客1最省交枪",
+   "code": "6L6LF3K04PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "省",
+    "交枪"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客2性价比",
+   "code": "6L6LFSK04PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客3最省交枪方案",
+   "code": "6L6LI0G04PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "省",
+    "交枪"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客4性价比满改",
+   "code": "6L6LJ6004PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "满改",
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客5最省交枪方案",
+   "code": "6L6LLUG04PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "省",
+    "交枪"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "未知枪械",
+   "mode": "烽火地带",
+   "name": "金枪客6性价比汤姆逊",
+   "code": "6L6LQJK04PC56TM4QFHON",
+   "price": "",
+   "config": "",
+   "tags": [
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "杠杆式步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5T84080NIGQM5KI5VL",
+   "price": "21W",
+   "config": "满改中距离；红点/35发/均衡；2-4倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "杠杆式步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5T90080NIGQM5KI5VL",
+   "price": "19W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "杠杆式步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5T9G080NIGQM5KI5VL",
+   "price": "14W",
+   "config": "近中腰射+高射速（推荐",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HDQK05S30UTSRTKI00",
+   "price": "54W",
+   "config": "急停腰射-开镜快二倍",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GTFO04G4JS245I2I9J",
+   "price": "54W",
+   "config": "满改爆闪红点",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HDVK05S30UTSRTKI00",
+   "price": "23W",
+   "config": "火控/100发/不可更换倍镜；满改爆闪红点",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6GTJ404G4JS245I2I9J",
+   "price": "23W",
+   "config": "盖板腰射开镜双休；火控/100发/不可更换倍镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L7BHS404G4JS245I2I9J",
+   "price": "23W",
+   "config": "S9专属   100发/不可更换倍镜；盖板腰射开镜双休",
+   "tags": [
+    "腰射",
+    "专属"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HEAS05S30UTSRTKI00",
+   "price": "40W",
+   "config": "热成像战斗/100发/不能更换倍镜；S9专属   100发/不可更换倍镜；盖板腰射开镜双休",
+   "tags": [
+    "腰射",
+    "热成像",
+    "专属"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L6H4SG04G4JS245I2I9J",
+   "price": "40W",
+   "config": "半改开镜；热成像战斗/100发/不能更换倍镜；S9专属   100发/不可更换倍镜",
+   "tags": [
+    "热成像",
+    "专属"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HC3K05S30UTSRTKI00",
+   "price": "16W",
+   "config": "半改开镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6L7GUEK04G4JS245I2I9J",
+   "price": "16W",
+   "config": "半改开镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "沙漠之鹰",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JO1KCO07HBJIELTMQ2G1",
+   "price": "8W",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KFEMH004G4JS245I2I9J",
+   "price": "50W",
+   "config": "满改（新子弹；红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQS4L007HBJIELTMQ2G1",
+   "price": "56W",
+   "config": "腰射开镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQS46S07HBJIELTMQ2G1",
+   "price": "53W",
+   "config": "满改兵峰",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JQS45K07HBJIELTMQ2G1",
+   "price": "30W",
+   "config": "兵峰握把中近稳定；红点/30发/弹夹/导气和倍镜可以自行更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6KL53NC04G4JS245I2I9J",
+   "price": "20W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换；中近激光",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC8TQ404G4JS245I2I9J",
+   "price": "37W",
+   "config": "满改（娱乐；红点/20发",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UT8080NIGQM5KI5VL",
+   "price": "19W",
+   "config": "中远操控慢弹夹小；8倍镜/5发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6J8LKAK08GCV06CLE0GQB",
+   "price": "37W",
+   "config": "中远操控慢弹夹小；8倍镜/5发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6JC5UVK080NIGQM5KI5VL",
+   "price": "7W",
+   "config": "热成像战斗/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HH9K0F7OI2FOM2E66M",
+   "price": "19W",
+   "config": "37/30发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "野牛冲锋枪",
+   "mode": "烽火地带",
+   "name": "",
+   "code": "6G0HGRK0F7OI2FOM2E66M",
+   "price": "7W",
+   "config": "37/30发/倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L6EV9401H2GMGVLN3DT1",
+   "price": "38W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2V02404NMBQ80T2GMT3",
+   "price": "27W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KFHV0401H2GMGVLN3DT1",
+   "price": "30W",
+   "config": "火控/30发/弹夹和倍镜不要更换；中远距离开镜稳定",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2V03K04NMBQ80T2GMT3",
+   "price": "17W",
+   "config": "中远距离开镜稳定；火控/30发/弹夹和倍镜不要更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KFHVHO01H2GMGVLN3DT1",
+   "price": "36W",
+   "config": "中远距离开镜稳定；火控/30发/弹夹和倍镜不要更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2V04O04NMBQ80T2GMT3",
+   "price": "36W",
+   "config": "热成像全息/40发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KRHFJ801H2GMGVLN3DT1",
+   "price": "36W",
+   "config": "热成像全息/40发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AR57突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9NEC08GCV06CLE0GQB",
+   "price": "",
+   "config": "热成像战斗/30/发不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EET0089RALUH3HS719",
+   "price": "92W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L68M2804NMBQ80T2GMT3",
+   "price": "92W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEU4089RALUH3HS719",
+   "price": "26W",
+   "config": "1.5-5/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KRL0OK08GCV06CLE0GQB",
+   "price": "26W",
+   "config": "1.5-5/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L6F1LO01H2GMGVLN3DT1",
+   "price": "14W",
+   "config": "1.5-5/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KRL0QG08GCV06CLE0GQB",
+   "price": "14W",
+   "config": "热成像/45发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEV4089RALUH3HS719",
+   "price": "9W",
+   "config": "热成像/45发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6G0J0TO03DQB9R8L33AB3",
+   "price": "9W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF08089RALUH3HS719",
+   "price": "8W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "CAR-15突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9PBK08GCV06CLE0GQB",
+   "price": "9W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF38089RALUH3HS719",
+   "price": "30W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI3AKO08GCV06CLE0GQB",
+   "price": "30W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF4C089RALUH3HS719",
+   "price": "28W",
+   "config": "红点/40发/弹夹和倍镜可以自行更换；进距离腰射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI3AMK08GCV06CLE0GQB",
+   "price": "28W",
+   "config": "进距离腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L6F0MC01H2GMGVLN3DT1",
+   "price": "11W",
+   "config": "进距离腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "G3战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI3APG08GCV06CLE0GQB",
+   "price": "11W",
+   "config": "热成像/40发/不能更换倍镜；进距离腰射",
+   "tags": [
+    "腰射",
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EECO089RALUH3HS719",
+   "price": "71W",
+   "config": "火控/75发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEDS089RALUH3HS719",
+   "price": "67W",
+   "config": "满改24倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI42EK04NMBQ80T2GMT3",
+   "price": "67W",
+   "config": "满改24倍镜",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEF4089RALUH3HS719",
+   "price": "62W",
+   "config": "红点高操",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI3A2808GCV06CLE0GQB",
+   "price": "62W",
+   "config": "红点高操",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEG8089RALUH3HS719",
+   "price": "58W",
+   "config": "长枪管半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KI3A8008GCV06CLE0GQB",
+   "price": "58W",
+   "config": "长枪管半改红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEHC089RALUH3HS719",
+   "price": "19W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KQ0VOO04NMBQ80T2GMT3",
+   "price": "19W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDO4089RALUH3HS719",
+   "price": "",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2NHS8069O35F2T8FRQU",
+   "price": "",
+   "config": "火控倍镜/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDV8089RALUH3HS719",
+   "price": "71W",
+   "config": "1.5/5高倍+消音",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9NVC08GCV06CLE0GQB",
+   "price": "71W",
+   "config": "红点稳定；倍镜/40发/弹夹和倍镜可以自行更换；1.5/5高倍+消音",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EE0S089RALUH3HS719",
+   "price": "45W",
+   "config": "消音枪管；红点稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KRB4RO04NMBQ80T2GMT3",
+   "price": "45W",
+   "config": "消音枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EE20089RALUH3HS719",
+   "price": "53W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K3M2LK069O35F2T8FRQU",
+   "price": "53W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EE38089RALUH3HS719",
+   "price": "29W",
+   "config": "半改全息",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K3M2N4069O35F2T8FRQU",
+   "price": "29W",
+   "config": "中近红点稳定；半改全息",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EE4C089RALUH3HS719",
+   "price": "55W",
+   "config": "高操半改；中近红点稳定",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K3M2O8069O35F2T8FRQU",
+   "price": "55W",
+   "config": "火控/75发/弹夹和倍镜可以自行更换；高操半改",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "MCX LT突击步枪",
+   "code": "6KHSS6801H2GMGVLN3DT1",
+   "price": "48W",
+   "config": "满改蓝枪管",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2NHPC069O35F2T8FRQU",
+   "price": "60W",
+   "config": "中近激光；红点/60发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDJ8089RALUH3HS719",
+   "price": "42W",
+   "config": "满改性价比；中近激光",
+   "tags": [
+    "满改",
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2NHR4069O35F2T8FRQU",
+   "price": "51W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换；满改性价比",
+   "tags": [
+    "满改",
+    "性价比"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDL0089RALUH3HS719",
+   "price": "38W",
+   "config": "紫枪管；火控倍镜/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K2NHTC069O35F2T8FRQU",
+   "price": "38W",
+   "config": "热成像/30发/不能更换倍镜；紫枪管",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDM4089RALUH3HS719",
+   "price": "11W",
+   "config": "丐版前十发点射；热成像/30发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "LT突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9NJ408GCV06CLE0GQB",
+   "price": "13W",
+   "config": "丐版前十发点射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDMS089RALUH3HS719",
+   "price": "75W",
+   "config": "弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K1KOT404NMBQ80T2GMT3",
+   "price": "79W",
+   "config": "弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "AS Val突击步枪",
+   "code": "6J0EDPG089RALUH3HS719",
+   "price": "76W",
+   "config": "火控/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K1KOJK04NMBQ80T2GMT3",
+   "price": "76W",
+   "config": "火控/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDQS089RALUH3HS719",
+   "price": "65W",
+   "config": "满改稳；火控/30发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K1KOVG04NMBQ80T2GMT3",
+   "price": "65W",
+   "config": "满改稳；火控/30发/弹夹和倍镜可以自行更换",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDSO089RALUH3HS719",
+   "price": "70W",
+   "config": "满改腰射",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9NRS08GCV06CLE0GQB",
+   "price": "58W",
+   "config": "满改腰射",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EDU0089RALUH3HS719",
+   "price": "47W",
+   "config": "3倍镜/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK47突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6JSGGVS069O35F2T8FRQU",
+   "price": "39W",
+   "config": "3倍镜/40发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF18089RALUH3HS719",
+   "price": "32W",
+   "config": "满改满腰射双休",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9PDO08GCV06CLE0GQB",
+   "price": "32W",
+   "config": "满改满腰射双休",
+   "tags": [
+    "满改",
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF28089RALUH3HS719",
+   "price": "17W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "PTR-32突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6G0J2N003DQB9R8L33AB3",
+   "price": "17W",
+   "config": "热成像/30发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF5G089RALUH3HS719",
+   "price": "12W",
+   "config": "热成像/40发/不能更换倍镜",
+   "tags": [
+    "热成像"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9PL008GCV06CLE0GQB",
+   "price": "12W",
+   "config": "60大弹鼓满改；红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EF70089RALUH3HS719",
+   "price": "60W",
+   "config": "60大弹鼓满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9POG08GCV06CLE0GQB",
+   "price": "60W",
+   "config": "激光红点；60大弹鼓满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L6F10C01H2GMGVLN3DT1",
+   "price": "62W",
+   "config": "激光红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9PQC08GCV06CLE0GQB",
+   "price": "62W",
+   "config": "中近红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KU05LG04G4JS245I2I9J",
+   "price": "16W",
+   "config": "近距离满腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SG552突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9QHS08GCV06CLE0GQB",
+   "price": "16W",
+   "config": "热成像/45发/不能更换倍镜",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEN8089RALUH3HS719",
+   "price": "72W",
+   "config": "刺客满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6G42S9K00RFHO3LC91GHP",
+   "price": "72W",
+   "config": "刺客满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEOG089RALUH3HS719",
+   "price": "68W",
+   "config": "常规满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9OV008GCV06CLE0GQB",
+   "price": "49W",
+   "config": "常规满改",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEPC089RALUH3HS719",
+   "price": "48W",
+   "config": "半改斜握",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L5SP5S04NMBQ80T2GMT3",
+   "price": "48W",
+   "config": "火控/45发/不能更换倍镜；半改斜握",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEQO089RALUH3HS719",
+   "price": "65W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L5SPB004NMBQ80T2GMT3",
+   "price": "65W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EERO089RALUH3HS719",
+   "price": "69W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6K7JARG069O35F2T8FRQU",
+   "price": "69W",
+   "config": "红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEIS089RALUH3HS719",
+   "price": "50W",
+   "config": "满改（新子弹；红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9OE808GCV06CLE0GQB",
+   "price": "50W",
+   "config": "满改（新子弹；红点/30发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEKC089RALUH3HS719",
+   "price": "56W",
+   "config": "腰射开镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9OHC08GCV06CLE0GQB",
+   "price": "56W",
+   "config": "腰射开镜",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEL4089RALUH3HS719",
+   "price": "53W",
+   "config": "满改兵峰",
+   "tags": [
+    "满改"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9OJ408GCV06CLE0GQB",
+   "price": "57W",
+   "config": "兵峰握把中近稳定；红点/30发/弹夹/导气和倍镜可以自行更换；满改兵峰",
+   "tags": [
+    "满改",
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6L6EVSS01H2GMGVLN3DT1",
+   "price": "30W",
+   "config": "兵峰握把中近稳定；红点/30发/弹夹/导气和倍镜可以自行更换",
+   "tags": [
+    "稳定"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6G0K8E000RFHO3LC91GHP",
+   "price": "30W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KHKDHO04G4JS245I2I9J",
+   "price": "30W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6J0EEM4089RALUH3HS719",
+   "price": "20W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换；中近激光",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "腾龙突击步枪",
+   "mode": "全面战场",
+   "name": "",
+   "code": "6KT9ORG08GCV06CLE0GQB",
+   "price": "20W",
+   "config": "红点/45发/弹夹和倍镜可以自行更换；中近激光",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8JFO04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8JA404G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "725双管霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF98U004G4JS245I2I9J",
+   "price": "",
+   "config": "1500秒开镜",
+   "tags": [
+    "秒开镜"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8K5404G4JS245I2I9J",
+   "price": "",
+   "config": "4280腰射",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "黑潮爆破",
+   "name": "AS Val突击步枪",
+   "code": "6LF8T9O04G4JS245I2I9J",
+   "price": "",
+   "config": "4280腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AKM突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9ALO04G4JS245I2I9J",
+   "price": "",
+   "config": "4280腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9F4S04G4JS245I2I9J",
+   "price": "",
+   "config": "2540红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AUG突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9AN804G4JS245I2I9J",
+   "price": "",
+   "config": "2540红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "AWM狙击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8J5C04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "K437突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9HLC04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "KC17突击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8JCG04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M700狙击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK8GC04G4JS245I2I9J",
+   "price": "",
+   "config": "2600长枪管全自动",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M7战斗步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8PS004G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "M82狙击步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF95QK04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MK4冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8L8O04G4JS245I2I9J",
+   "price": "",
+   "config": "2600腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF99KS04G4JS245I2I9J",
+   "price": "",
+   "config": "2400高数值红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK5JS04G4JS245I2I9J",
+   "price": "",
+   "config": "2400高数值红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9CMS04G4JS245I2I9J",
+   "price": "",
+   "config": "2400高数值红点",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK54K04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8M7404G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "MP5冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9CN804G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF988G04G4JS245I2I9J",
+   "price": "",
+   "config": "1360满腰射；2600长枪管全自动",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK97S04G4JS245I2I9J",
+   "price": "",
+   "config": "2600短枪管全自动；1360满腰射",
+   "tags": [
+    "腰射"
+   ],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "S12K霰弹枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9BMG04G4JS245I2I9J",
+   "price": "",
+   "config": "4100高操红点；2600短枪管全自动",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SCAR-H战斗步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF96RC04G4JS245I2I9J",
+   "price": "",
+   "config": "3500长枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK5CG04G4JS245I2I9J",
+   "price": "",
+   "config": "4080大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SKS射手步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9DKC04G4JS245I2I9J",
+   "price": "",
+   "config": "3880短枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "SR-25射手步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8J7C04G4JS245I2I9J",
+   "price": "",
+   "config": "3500长枪管；3880短枪管",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "Val突击步枪",
+   "mode": "黑潮爆破",
+   "name": "AS Val突击步枪",
+   "code": "6LF8J3K04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "杠杆式步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LEK58O04G4JS245I2I9J",
+   "price": "",
+   "config": "4080大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "杠杆式步枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8SEC04G4JS245I2I9J",
+   "price": "",
+   "config": "4080大弹鼓",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "汤姆逊冲锋枪",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF8J2004G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  },
+  {
+   "gun": "沙漠之鹰",
+   "mode": "黑潮爆破",
+   "name": "",
+   "code": "6LF9AGC04G4JS245I2I9J",
+   "price": "",
+   "config": "",
+   "tags": [],
+   "note": "",
+   "src": "线上同步"
+  }
+ ],
+ "passwords": {
+  "date": "11月1日",
+  "iso": "2026-11-01",
+  "items": [
+   {
+    "map": "零号大坝",
+    "code": "7290"
+   },
+   {
+    "map": "长弓溪谷",
+    "code": "7852"
+   },
+   {
+    "map": "巴克什",
+    "code": "0241"
+   },
+   {
+    "map": "航天基地",
+    "code": "2778"
+   },
+   {
+    "map": "潮汐监狱",
+    "code": "0858"
+   }
+  ],
+  "verified": false,
+  "fetched": "2026-11-01 19:05",
+  "sources": {
+   "ali213": {
+    "date": "10月30日",
+    "iso": "2026-10-30",
+    "items": [
+     {
+      "map": "零号大坝",
+      "code": "0600"
+     },
+     {
+      "map": "长弓溪谷",
+      "code": "0954"
+     },
+     {
+      "map": "巴克什",
+      "code": "0414"
+     },
+     {
+      "map": "航天基地",
+      "code": "0469"
+     },
+     {
+      "map": "潮汐监狱",
+      "code": "0019"
+     }
+    ],
+    "verified": true,
+    "fetched": "2026-11-01 19:05"
+   },
+   "kkrb": {
+    "date_label": "11月1日",
+    "iso": "2026-11-01",
+    "codes": {
+     "零号大坝": "7290",
+     "长弓溪谷": "7852",
+     "巴克什": "0241",
+     "航天基地": "2778",
+     "潮汐监狱": "0858"
+    },
+    "updated": "20261101000001",
+    "verified": true
+   }
+  },
+  "merge_note": "两源冲突(游侠2026-10-30 vs kkrb2026-11-01)，取更新日期"
+ }
+}
