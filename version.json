@@ -1,1 +1,1 @@
-{"version": "1.7", "exe": "app.exe", "size": 7993421, "notes": "数据源切换至GitHub Pages，每日0点自动更新"}
+{"version": "1.8", "exe": "app.exe", "size": 7995036, "notes": "修复点复制枪码偶发失败：剪贴板被其他程序占用时自动重试，并逐项校验写入结果"}
