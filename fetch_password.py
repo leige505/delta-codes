@@ -223,6 +223,11 @@ def fetch_passwords():
     merged, verified, note = _merge_sources(ali, kkrb)
     if not merged:
         return None
+    # 防循环引用（2026-11-04）：_merge_sources 一致/单源分支直接 return ali，
+    # merged 和 ali 是同一对象，下面 merged["sources"] 会把 ali 塞进自己 → json.dump 报 Circular reference
+    if merged is ali or merged is kkrb:
+        merged = dict(merged)
+        merged["items"] = list(merged["items"])
     merged["verified"] = verified
     merged["sources"] = {"ali213": ali, "kkrb": kkrb}
     merged["merge_note"] = note
