@@ -47,6 +47,8 @@ jobs:
           cp _out/codes.json publish/codes.json
           cp version.json publish/version.json
           cp app.exe publish/app.exe
+          # 手机版备用入口（2026-11-04）：workbuddy.host 被部分运营商网络阻断，gun 页同步到 Pages
+          cp -r gun publish/gun
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
