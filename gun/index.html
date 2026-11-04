@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12151E">
+<title>三角洲改枪码速查 · 雷哥</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+  :root{
+    --bg:#12151E; --card:#1A1F2E; --card2:#182030; --line:#2A3247;
+    --gold:#F0C43C; --text:#E8ECF5; --muted:#8B93A8; --ok:#5AD8A6;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{background:var(--bg);color:var(--text);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:16px;line-height:1.5;padding-bottom:40px}
+  .wrap{max-width:520px;margin:0 auto;padding:0 14px}
+
+  /* 头部 */
+  header{background:linear-gradient(180deg,#1E2E52 0%,#141824 100%);
+    border-bottom:2px solid var(--gold);padding:18px 14px 14px;margin-bottom:14px}
+  header .wrap{padding:0}
+  h1{font-size:22px;letter-spacing:1px}
+  .sub{color:var(--gold);font-size:13px;margin-top:4px}
+  .meta{color:var(--muted);font-size:12px;margin-top:6px}
+
+  /* 每日密码卡 */
+  .pw-card{background:linear-gradient(160deg,#20294A,#171C2B);
+    border:1px solid var(--line);border-radius:14px;padding:14px 14px 10px;margin-bottom:16px}
+  .pw-title{font-size:16px;font-weight:600;margin-bottom:10px}
+  .pw-title .d{color:var(--muted);font-weight:400;font-size:13px;margin-left:6px}
+  .pw-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+  .pw-item{text-align:center;background:rgba(255,255,255,.04);border-radius:10px;padding:8px 2px}
+  .pw-map{font-size:12px;color:var(--muted);margin-bottom:2px}
+  .pw-code{font-size:24px;font-weight:700;color:var(--gold);letter-spacing:2px;
+    font-family:"DIN Alternate",Consolas,monospace}
+  .pw-note{font-size:11px;color:var(--muted);margin-top:8px}
+
+  /* 模式tab */
+  .tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:10px}
+  .tab{background:var(--card);border:1px solid var(--line);border-radius:22px;
+    color:var(--muted);font-size:15px;padding:9px 0;text-align:center;cursor:pointer}
+  .tab.on{background:var(--gold);border-color:var(--gold);color:#12151E;font-weight:700}
+
+  /* 搜索+价格 */
+  .search{width:100%;background:var(--card);border:1px solid var(--line);border-radius:10px;
+    color:var(--text);font-size:16px;padding:11px 12px;margin-bottom:10px;outline:none}
+  .search:focus{border-color:var(--gold)}
+  .pf-row{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px}
+  .pf{background:var(--card);border:1px solid var(--line);border-radius:18px;
+    color:var(--muted);font-size:14px;padding:7px 0;text-align:center;cursor:pointer}
+  .pf.on{background:var(--gold);border-color:var(--gold);color:#12151E;font-weight:700}
+
+  /* 方案卡片 */
+  .cnt{color:var(--muted);font-size:13px;margin-bottom:8px}
+  .item{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:12px 14px;margin-bottom:10px}
+  .row1{display:flex;justify-content:space-between;align-items:baseline}
+  .gun{font-size:17px;font-weight:600}
+  .price{font-size:16px;font-weight:700;color:var(--ok)}
+  .name{color:var(--muted);font-size:13px;margin-top:2px;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .tags{margin-top:4px}
+  .tag{display:inline-block;background:rgba(240,196,60,.12);color:var(--gold);
+    font-size:11px;border-radius:4px;padding:1px 6px;margin-right:6px}
+  .detail{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
+  .item.open .detail{display:block}
+  .d-row{font-size:14px;color:var(--muted);margin-bottom:4px}
+  .d-row b{color:var(--text);font-weight:400}
+  .bigcode{background:var(--card2);border:1px dashed var(--gold);border-radius:10px;
+    text-align:center;padding:12px 6px;margin:10px 0;font-size:22px;font-weight:700;
+    letter-spacing:3px;font-family:Consolas,monospace;user-select:all;word-break:break-all}
+  .copy{display:block;width:100%;background:var(--gold);border:none;border-radius:10px;
+    color:#12151E;font-size:17px;font-weight:700;padding:12px 0;cursor:pointer}
+  .copy:active{opacity:.8}
+
+  .foot{text-align:center;color:var(--muted);font-size:12px;margin-top:20px}
+  .empty{text-align:center;color:var(--muted);padding:30px 0}
+  .loading{text-align:center;color:var(--muted);padding:50px 0;font-size:15px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🎯 三角洲改枪码速查</h1>
+    <div class="sub">改枪码每日同步 · 关注抖音「雷哥（三角洲行动）」领福利</div>
+    <div class="meta" id="meta">加载中…</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="pw-card" id="pwCard" style="display:none">
+    <div class="pw-title">🔑 每日密码<span class="d" id="pwDate"></span></div>
+    <div class="pw-grid" id="pwGrid"></div>
+    <div class="pw-note">密码门每日 0 点刷新 · 进游戏直接输入四位数字</div>
+  </div>
+
+  <div class="tabs" id="tabs"></div>
+  <input class="search" id="q" placeholder="🔍 输入枪名搜索（如：汤姆逊）">
+  <div class="pf-row" id="pfRow"></div>
+  <div class="cnt" id="cnt"></div>
+  <div id="list" class="loading">正在加载改枪码…</div>
+
+  <div class="foot">数据每日自动同步 · 本工具由「雷哥（三角洲行动）」制作<br>
+    <span style="font-size:11px">添加到主屏幕，当 APP 用 → 浏览器菜单 → 添加到主屏幕</span></div>
+</div>
+
+<script>
+const MODES = ["全部","烽火地带","全面战场","黑潮爆破"];
+const PFS = ["全部价格","<15W","15-40W",">40W"];
+let DATA = null, mode = "全部", pf = "全部价格", kw = "";
+
+const $ = s => document.querySelector(s);
+
+function parseW(p){
+  const m = /^(\d+(?:\.\d)?)W$/.exec(p||"");
+  return m ? parseFloat(m[1]) : null;
+}
+function priceOk(p){
+  if (pf === "全部价格") return true;
+  const w = parseW(p);
+  if (w === null) return pf === "全部价格";
+  if (pf === "<15W") return w < 15;
+  if (pf === "15-40W") return w >= 15 && w <= 40;
+  if (pf === ">40W") return w > 40;
+  return true;
+}
+function fmtPrice(p){
+  const w = parseW(p);
+  return w === null ? "—" : w + "W";
+}
+
+function renderPw(){
+  const pw = DATA.passwords;
+  if (!pw || !pw.items || !pw.items.length){ return; }
+  $("#pwCard").style.display = "block";
+  $("#pwDate").textContent = "· " + (pw.date || "");
+  $("#pwGrid").innerHTML = pw.items.map(i =>
+    '<div class="pw-item"><div class="pw-map">' + i.map +
+    '</div><div class="pw-code">' + i.code + '</div></div>').join("");
+}
+
+function renderTabs(){
+  $("#tabs").innerHTML = MODES.map(m =>
+    '<div class="tab' + (m===mode?' on':'') + '" data-m="' + m + '">' + m + '</div>').join("");
+}
+function renderPfs(){
+  $("#pfRow").innerHTML = PFS.map(p =>
+    '<div class="pf' + (p===pf?' on':'') + '" data-p="' + p + '">' + p + '</div>').join("");
+}
+function esc(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+
+function renderList(){
+  let cs = DATA.codes || [];
+  if (mode !== "全部") cs = cs.filter(c => c.mode === mode);
+  if (kw) cs = cs.filter(c =>
+    ((c.gun||"") + (c.name||"") + (c.config||"")).toLowerCase().includes(kw));
+  cs = cs.filter(c => priceOk(c.price));
+  $("#cnt").textContent = "共 " + cs.length + " 条方案";
+  if (!cs.length){
+    $("#list").className = "empty";
+    $("#list").innerHTML = "没有匹配的方案，换个词试试";
+    return;
+  }
+  $("#list").className = "";
+  $("#list").innerHTML = cs.map((c,i) => {
+    const tags = (c.tags||[]).map(t => '<span class="tag">' + esc(t) + '</span>').join("");
+    const cfg = (c.config||"").split("；").filter(Boolean)
+      .map(s => '<div class="d-row">🔧 <b>' + esc(s) + '</b></div>').join("");
+    const name = c.name && c.name !== c.gun
+      ? '<div class="name">' + esc(c.name) + '</div>' : "";
+    return '<div class="item" data-i="' + i + '">' +
+      '<div class="row1"><div class="gun">' + esc(c.gun) +
+      '<span style="color:var(--muted);font-size:12px;font-weight:400"> · ' + esc(c.mode) + '</span></div>' +
+      '<div class="price">' + fmtPrice(c.price) + '</div></div>' +
+      name + (tags ? '<div class="tags">' + tags + '</div>' : "") +
+      '<div class="detail">' + cfg +
+      '<div class="d-row">📋 使用：复制下方枪码 → 游戏内改枪台粘贴</div>' +
+      '<div class="d-row" style="color:#E8A33C">⚠️ 手动输入时看清字母 I 和 J、0 和 O，错一位就变别的枪</div>' +
+      '<div class="bigcode">' + esc(c.code) + '</div>' +
+      '<button class="copy" data-code="' + esc(c.code) + '">📋 复制枪码</button>' +
+      '</div></div>';
+  }).join("");
+}
+
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-m],[data-p],[data-code],.item");
+  if (!t) return;
+  if (t.dataset.m){ mode = t.dataset.m; renderTabs(); renderList(); return; }
+  if (t.dataset.p){ pf = t.dataset.p; renderPfs(); renderList(); return; }
+  if (t.dataset.code){
+    const code = t.dataset.code;
+    const done = ok => { t.textContent = ok ? "✅ 已复制，去游戏粘贴" : "❌ 复制失败，长按码手动复制";
+      setTimeout(() => t.textContent = "📋 复制枪码", 1600); };
+    if (navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(code).then(() => done(true)).catch(() => done(false));
+    } else {
+      const ta = document.createElement("textarea");
+      ta.value = code; document.body.appendChild(ta); ta.select();
+      let ok = false; try { ok = document.execCommand("copy"); } catch(_){}
+      document.body.removeChild(ta); done(ok);
+    }
+    e.stopPropagation(); return;
+  }
+  if (t.classList.contains("item")){
+    const was = t.classList.contains("open");
+    document.querySelectorAll(".item.open").forEach(x => x.classList.remove("open"));
+    if (!was) t.classList.add("open");
+  }
+});
+$("#q").addEventListener("input", e => { kw = e.target.value.trim().toLowerCase(); renderList(); });
+
+fetch("../codes.json?_=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    $("#meta").textContent = "共 " + (d.codes||[]).length + " 条方案 · 更新于 " + (d.updated||"?") + " · 自动同步";
+    renderPw(); renderTabs(); renderPfs(); renderList();
+  })
+  .catch(() => { $("#list").className = "empty"; $("#list").textContent = "加载失败，请检查网络后刷新"; });
+
+/* 访问统计：UV按天去重+PV每次上报，失败静默不影响使用 */
+(function(){
+  try{
+    fetch("/.cloud/database/rest/v1/stats_hits", {
+      method:"POST",
+      headers:{ "Content-Type":"application/json", "x-wb-webapp-access-key":"wbpk_YPo1KTQMsQbb5uznVJSp26_QgMPBEn9ewdSLGf0sI6BX0zWz2iufE1f", Prefer:"return=minimal" },
+      body: JSON.stringify([{ client:"web", ver:"1.0", ua:navigator.userAgent.slice(0,120) }])
+    }).catch(function(){});
+  }catch(e){}
+  try{
+    var k="dc_uv_"+new Date().toISOString().slice(0,10);
+    if(!localStorage.getItem(k)){
+      localStorage.setItem(k,"1");
+      fetch("/.cloud/database/rest/v1/stats_hits", {
+        method:"POST",
+        headers:{ "Content-Type":"application/json", "x-wb-webapp-access-key":"wbpk_YPo1KTQMsQbb5uznVJSp26_QgMPBEn9ewdSLGf0sI6BX0zWz2iufE1f", Prefer:"return=minimal" },
+        body: JSON.stringify([{ client:"web_uv", ver:"1.0", ua:navigator.userAgent.slice(0,120) }])
+      }).catch(function(){});
+    }
+  }catch(e){}
+})();
+</script>
+</body>
+</html>
